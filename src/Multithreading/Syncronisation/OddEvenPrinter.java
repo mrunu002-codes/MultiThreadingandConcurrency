@@ -1,4 +1,4 @@
-package Mutlithreading.Synconisation;
+package Multithreading.Syncronisation;
 
 class Printer{
     int num=1;
