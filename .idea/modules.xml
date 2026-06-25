@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MutliThreadingandConcurrency.iml" filepath="$PROJECT_DIR$/MutliThreadingandConcurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadingandConcurrency.iml" filepath="$PROJECT_DIR$/MultiThreadingandConcurrency.iml" />
     </modules>
   </component>
 </project>
